@@ -1,0 +1,47 @@
+body{
+    color: #a2d2ff;
+    background-color: #333533;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+body img{
+    width: 400px;
+    border-radius: 8px;
+}
+
+h1{
+    color: #8338ec;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    position: center;
+    justify-content: center;
+    padding: center;
+    text-transform: Uppercase;
+    position: relative;
+    text-align: center;
+}
+
+h2{
+    color: #f15bb5;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+}
+
+.etiqueta {
+    color: #060;
+    font-weight:bold;
+  }
+
+#iron, #cap{
+    font-size: 22px;
+    text-decoration: underline;
+}
+
+.hulk, .thor{
+    background-color: #000;
+    color: #fff;
+    font-style: italic;
+}
+  
+  
