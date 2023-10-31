@@ -1,0 +1,116 @@
+*{
+    background-color: black;
+}
+ /* primer bandera */
+.container{
+    background-color: red;
+    width: 500px;
+    height: 400px;
+    display: flex;
+}
+
+.chico_blanco{
+    background-color: white;
+    height: 65px;
+    width: 300000px;
+    display: grid;
+    margin-top: 165px;
+}
+
+.grande_azul{
+    background-color: darkblue;
+    height: 30px;
+    margin-top: 17.5px;
+}
+
+.mediano_blanco-margin-derecho{
+    background-color: white;
+    height: 160px;
+    width: 65px;
+    padding: 10px;
+    margin:150px;
+    margin-top: -212.5px;
+}
+
+.mediano_azul{
+    background-color: darkblue;
+    height: 185px;
+    margin-top: -10px;
+    width: 40px;
+    margin-left: 13px;
+}
+
+.mediano_blanco-margin-abajo{
+    background-color: white;
+    height: 150px;
+    width: 65px;
+    padding: 10px;
+    margin:150px;
+    margin-top:-100px;
+}
+
+.mediano_azul_abajo{
+    background-color: darkblue;
+    height: 190px;
+    margin-top: -30px;
+    width: 40px;
+    margin-left: 13px;
+}
+
+/* segunda bandera */
+.container2{
+    background-color: red;
+    margin-left: 700px;
+    margin-top: -400px;
+    width: 500px;
+    height: 330px;
+    display: flex;
+}
+
+.chico_blanco2{
+    background-color: white;
+    height: 65px;
+    width: 300000px;
+    display: grid;
+    margin-top:130px;
+}
+
+.grande_azul2{
+    background-color: darkblue;
+    height: 30px;
+    margin-top: 17.5px;
+}
+
+.mediano_blanco-margin-derecho2{
+    background-color: white;
+    height: 115px;
+    width: 65px;
+    padding: 10px;
+    margin:150px;
+    margin-top: -177.5px;
+}
+
+.mediano_azul2{
+    background-color: darkblue;
+    height: 150px;
+    margin-top: -10px;
+    width: 40px;
+    margin-left: 13px;
+}
+
+.mediano_blanco-margin-abajo2{
+    background-color: white;
+    height: 132.5px;
+    width: 65px;
+    padding: 10px;
+    margin:150px;
+    margin-top:-107.5px;
+}
+
+.mediano_azul_abajo2{
+    background-color: darkblue;
+    height: 152.5px;
+    margin-top: -10px;
+    width: 40px;
+    margin-left: 13px;
+}
